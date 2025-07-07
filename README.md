@@ -159,14 +159,14 @@
         
         
         <div class="song relative bg-white p-3 rounded shadow flex gap-3 cursor-pointer" 
-             data-title="Kariaini" 
+             data-title="karia-ini" 
              data-artist="Sam K" 
              data-src="karia-ini-by-sam-k.mp4">
           <video class="w-24 h-16 rounded object-cover" muted>
             <source src="karia-ini-by-sam-k.mp4" type="video/mp4" />
           </video>
           <div class="flex-1">
-            <h4 class="font-semibold text-blue-800 text-sm">Kariaini</h4>
+            <h4 class="font-semibold text-blue-800 text-sm">karia-ini</h4>
             <p class="text-gray-600 text-xs">Sam K</p>
           </div>
           <div class="relative">
